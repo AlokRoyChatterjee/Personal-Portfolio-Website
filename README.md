@@ -1,1 +1,2 @@
 ### Developed Personal Portfolio Website Using HTML, CSS, and JavaScript ###
+### This portfolio website has an about section that shows my description as a web developer, a skills section with progress bars showing how much I know about different programming languages, a projects section that shows my projects and certifications, a timeline section showing my different projects, and a contact section that includes a form ###
